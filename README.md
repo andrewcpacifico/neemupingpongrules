@@ -22,7 +22,7 @@ A quantidade de pontos de cada partida será definida de acordo com a quantidade
   - Com o placar 6 a 6, a seqüência de sacar e receber deve ser a mesma, mas cada atleta deve produzir somente um saque até o final do jogo;
   - O direito de sacar primeiro é do jogador que venceu a última partida no rodízio;
     - Caso a partida seja a primeira do rodízio, a escolha fica a critério dos jogadores;
-  - O jogador pode queimar o saque no máximo duas vezes, após dois saques queimados consecutivos, o ponto será do adversário.
+  - O jogador pode queimar o saque no máximo duas vezes, após três saques queimados consecutivos, o ponto será do adversário.
   
 ### Correção da ordem do saque
 
